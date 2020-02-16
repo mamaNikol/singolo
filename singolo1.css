@@ -88,12 +88,14 @@ main {
 	position: absolute;
 	top: 300px;
 	right: 42px;
+	cursor: pointer;
 }
 
 .left {
 	position: absolute;
 	left: 42px;
 	top: 300px;
+	cursor: pointer;
 }
 
 .vertical {
