@@ -112,7 +112,8 @@ body, html {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer1.png);
-    background-position: top;
+    background-position: center;
+    background-size: cover;
 }
     .layout__inner2 {
 	width: 235px;
@@ -125,7 +126,8 @@ body, html {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer3.png);
-    background-position: top;
+    background-position: center;
+    background-size: cover;
 }
 
 .layout__inner4 {
@@ -133,6 +135,7 @@ body, html {
     height: 200px;
     background-image: url(./assets/img2/Layer4.png);
     background-position: center;
+    background-size: cover;
 }
 
 .layout__inner5 {
@@ -140,6 +143,7 @@ body, html {
     height: 200px;
     background-image: url(./assets/img2/Layer5.png);
     background-position: center;
+    background-size: cover;
 }
 
 .layout__inner6 {
@@ -147,31 +151,36 @@ body, html {
     height: 200px;
     background-image: url(./assets/img2/Layer6.png);
     background-position: center;
+    background-size: cover;
 }
 .layout__inner7 {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer7.png);
     background-position: center;
+    background-size: cover;
 }
 .layout__inner8 {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer8.png);
     background-position: center;
+    background-size: cover;
 }
 .layout__inner9 {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer9.png);
     background-position: center;
+    background-size: cover;
 }
 
 .layout__inner10 {
 	width: 235px;
     height: 200px;
     background-image: url(./assets/img2/Layer10.png);
-    background-position: top 22% center;
+    background-position: center;
+    background-size: cover;
 }
 
 .layout__inner11 {
@@ -179,13 +188,15 @@ body, html {
     height: 202px;
     background-image: url(./assets/img2/Layer11.png);
     background-position: center;
+    background-size: cover;
 }
 
 .layout__inner12 {
 	width: 235px;
     height: 202px;
     background-image: url(./assets/img2/Layer12.png);
-    background-position: bottom;
+    background-position: center;
+    background-size: cover;
 }
 
 .portfolio__title {
